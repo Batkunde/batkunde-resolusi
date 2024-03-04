@@ -4,6 +4,8 @@ Rencana Konten Batkunde
 -Javascript
   *ES6
   *Framework javascript
--Struktur Data Dasar
+    ^ Angular
+    ^ React
 -php
+  ^ Laravel
 -sql
