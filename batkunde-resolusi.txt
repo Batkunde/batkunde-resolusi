@@ -3,3 +3,5 @@ batkunde resolusi
 -konsisten mempelajari github
 -konsisten mempelajari bitbucket
 -konsisten mempelajari gitlab
+-memahami bahasa markup
+-memahami bahasa pemrograman
