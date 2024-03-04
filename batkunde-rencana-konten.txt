@@ -1,0 +1,8 @@
+Rencana Konten Batkunde
+-html
+-css
+-Javascript
+  *ES6
+  *Framework javascript
+-php
+-sql
