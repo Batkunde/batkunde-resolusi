@@ -1,0 +1,5 @@
+batkunde resolusi
+-konsisten mempelajari git
+-konsisten mempelajari github
+-konsisten mempelajari bitbucket
+-konsisten mempelajari gitlab
